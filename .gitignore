@@ -1,3 +1,4 @@
 /node_modules
 /utils/role.json
 /commands/slash/command.js
+/.env
