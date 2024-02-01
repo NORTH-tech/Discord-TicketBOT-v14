@@ -2,3 +2,4 @@
 /utils/role.json
 /commands/slash/command.js
 /.env
+/data
